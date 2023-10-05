@@ -15,3 +15,20 @@ function index(req, res, next) {
 function replace(req, res, next) {
     res.send('Ranchers replace');
 }
+
+function update(req, res, next) {
+    res.send('Rancher update');
+}
+
+function destroy(req, res, next) {
+    res.send('Rancher destroyed');
+}
+
+module.exports = {
+    create,
+    list,
+    index,
+    replace,
+    update,
+    destroy
+};
