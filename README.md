@@ -13,6 +13,8 @@ Gabriel Isaí Prieto Sánez (353297).
 
 Zaid Joel González Mendoza (353254).
 
+Carlos Jamlec Ochoa Armendariz (348660).
+
 Los siguientes scripts son los primeros resultados de nuestra aplicación de cuuFarm.
 
 ### Prerequisitos
